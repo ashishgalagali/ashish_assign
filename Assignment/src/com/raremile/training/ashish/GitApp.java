@@ -4,6 +4,6 @@ public class GitApp
 {
 	public static void main(String[] args)
 		{ 
-	      System.out.println("My name is Ashish.I'm learning Git");
+	      System.out.println("My name is Ashish.I know some Git");
 	   }
 }
